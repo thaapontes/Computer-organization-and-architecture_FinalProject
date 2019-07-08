@@ -1,0 +1,12 @@
+[Version]
+Version=10.5
+[Designs]
+fmipsdesign=.\FMipsDesign\FMipsDesign.adf
+[Browser]
+sort=order
+mode=asc
+[Order]
+order=1
+macro=
+[Expand]
+fmipsdesign=1
